@@ -1,2 +1,2 @@
 # pyga
-Runs a simple genetic algorithm for tuning hyperparameters in sklearn module.
+Runs a simple genetic algorithm for tuning hyperparameters in the sklearn python library.
